@@ -1,27 +1,24 @@
-<!-- 🔷 SOFT GRADIENT HEADER -->
+<!-- 🔥 HERO BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=120&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFB3,100:FF6F61&height=180&section=header&text=Piyush%20Ahirao&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
-<!-- 👋 NAME (STATIC = STRONG IDENTITY) -->
-<h1 align="center">
-  Hey 👋, I'm <span style="color:#00BFFF;">Piyush Ahirao</span>
-</h1>
+<!-- 👋 STATIC INTRO (CLEAN + STRONG) -->
+<h2 align="center" style="color:#00FFB3;">
+  Hey 👋, I'm Piyush Ahirao
+</h2>
 
-<!-- ⚡ SUBTLE ANIMATION (NOT OVERPOWERING) -->
+<!-- ⚡ NEW ANIMATION (SLIDE STYLE, NOT TYPING) -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=2500&pause=1500&color=555555&center=true&vCenter=true&width=500&lines=Turning+Ideas+Into+Reality;AI+%26+ML+Enthusiast;Building+Practical+Solutions"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=2500&pause=2000&color=FF6F61&center=true&vCenter=true&width=600&lines=◆+Turning+Ideas+Into+Reality;◆+Code.+Build.+Innovate.;◆+AI-driven+Mindset"/>
 </p>
 
-<!-- 🔻 THIN PREMIUM DIVIDER -->
+<!-- 🔻 MINIMAL DIVIDER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00BFFF,100:00FFB3&height=2"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFB3,100:FF6F61&height=2"/>
 </p>
 
-<!-- 🧠 CLEAN ROLE LINE -->
-<h3 align="center" style="color:#666;">
-  B.Tech Student • AI/ML • Developer
-</h3>
+
 ## 🧠 <span style="color:#00BFFF;">About Me</span>
 
 - 🎓 B.Tech @ **Pimpri Chinchwad College of Engineering**
