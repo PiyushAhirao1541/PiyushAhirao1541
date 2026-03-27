@@ -5,7 +5,7 @@
 
 <!-- 👋 STATIC INTRO (CLEAN + STRONG) -->
 <h2 align="center" style="color:#00FFB3;">
-  Hey 👋, I'm Piyush Ahirao
+  Hey.... I'm Piyush 
 </h2>
 
 <!-- ⚡ NEW ANIMATION (SLIDE STYLE, NOT TYPING) -->
