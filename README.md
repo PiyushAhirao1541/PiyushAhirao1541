@@ -1,24 +1,22 @@
-<!-- 🔥 TOP HERO BANNER (MAIN IDENTITY) -->
+<!-- 🔥 HERO BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00FFB3,100:FF6F61&height=180&section=header&text=Piyush%20Ahirao&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFB3,100:FF6F61&height=180&section=header&text=Piyush%20Ahirao&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
-<!-- ⚡ MAIN INTRO (FAST, CLEAN IMPACT) -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=1500&pause=800&color=00FFB3&center=true&vCenter=true&width=700&lines=Hey+👋,+I'm+Piyush+Ahirao"/>
-</h1>
+<!-- 👋 STATIC INTRO (CLEAN + STRONG) -->
+<h2 align="center" style="color:#00FFB3;">
+  Hey 👋, I'm Piyush Ahirao
+</h2>
 
-<!-- 🧠 TAGLINE (SECONDARY ANIMATION) -->
+<!-- ⚡ NEW ANIMATION (SLIDE STYLE, NOT TYPING) -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=1800&pause=1000&color=FF6F61&center=true&vCenter=true&width=700&lines=>>>+Turning+Ideas+Into+Reality;>>>+Code.+Build.+Innovate.;>>>+AI-driven+Mindset"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=2500&pause=2000&color=FF6F61&center=true&vCenter=true&width=600&lines=◆+Turning+Ideas+Into+Reality;◆+Code.+Build.+Innovate.;◆+AI-driven+Mindset"/>
 </p>
 
-<!-- 🔻 CLEAN DIVIDER -->
+<!-- 🔻 MINIMAL DIVIDER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFB3,100:FF6F61&height=3"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFB3,100:FF6F61&height=2"/>
 </p>
----
-
 ## 🧠 <span style="color:#00BFFF;">About Me</span>
 
 - 🎓 B.Tech @ **Pimpri Chinchwad College of Engineering**
