@@ -1,22 +1,17 @@
-<!-- 🔥 HERO BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFB3,100:FF6F61&height=180&section=header&text=Piyush%20Ahirao&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:1a1a1a&height=140&section=header&text=Piyush%20Ahirao&fontSize=40&fontColor=ffffff"/>
 </p>
 
-<!-- 👋 STATIC INTRO (CLEAN + STRONG) -->
-<h2 align="center" style="color:#00FFB3;">
-  Hey.... I'm PIYUSH AHIRAO 
-</h2>
+<h3 align="center" style="color:#aaa;">
+  Turning Ideas Into Reality ✨
+</h3>
 
-<!-- ⚡ NEW ANIMATION (SLIDE STYLE, NOT TYPING) -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=2500&pause=2000&color=FF6F61&center=true&vCenter=true&width=600&lines=◆+Turning+Ideas+Into+Reality;◆+Code.+Build.+Innovate.;◆+AI-driven+Mindset"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFB3,100:00BFFF&height=2"/>
 </p>
 
-<!-- 🔻 MINIMAL DIVIDER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFB3,100:FF6F61&height=2"/>
-</p>
+
+
 ## 🧠 <span style="color:#00BFFF;">About Me</span>
 
 - 🎓 B.Tech @ **Pimpri Chinchwad College of Engineering**
