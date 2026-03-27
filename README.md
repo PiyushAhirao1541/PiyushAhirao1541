@@ -1,17 +1,21 @@
+<!-- 🔥 TOP HERO BANNER (MAIN IDENTITY) -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00FFB3,100:FF6F61&height=180&section=header&text=Piyush%20Ahirao&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+</p>
+
+<!-- ⚡ MAIN INTRO (FAST, CLEAN IMPACT) -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&duration=1500&pause=800&color=00FFB3&center=true&vCenter=true&width=700&lines=Hey+👋,+I'm+Piyush+Ahirao"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=1500&pause=800&color=00FFB3&center=true&vCenter=true&width=700&lines=Hey+👋,+I'm+Piyush+Ahirao"/>
 </h1>
 
+<!-- 🧠 TAGLINE (SECONDARY ANIMATION) -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=1800&pause=1000&color=FF6F61&center=true&vCenter=true&width=700&lines=>>>+Turning+Ideas+Into+Reality;>>>+Code.+Build.+Innovate.;>>>+AI-driven+Mindset"/>
 </p>
 
+<!-- 🔻 CLEAN DIVIDER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00FFB3,100:FF6F61&height=150&section=header&text=Piyush%20Ahirao&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFB3,100:FF6F61&height=4"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFB3,100:FF6F61&height=3"/>
 </p>
 ---
 
