@@ -3,87 +3,85 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFB3,100:FF6F61&height=180&section=header&text=Piyush%20Ahirao&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
-<!-- 👋 STATIC INTRO (CLEAN + STRONG) -->
+<!-- 👋 INTRO -->
 <h2 align="center" style="color:#00FFB3;">
   Hey 👋, I'm Piyush Ahirao
 </h2>
 
-<!-- ⚡ NEW ANIMATION (SLIDE STYLE, NOT TYPING) -->
+<!-- ⚡ TAGLINE -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=2500&pause=2000&color=FF6F61&center=true&vCenter=true&width=600&lines=◆+Turning+Ideas+Into+Reality;◆+Code.+Build.+Innovate.;◆+AI-driven+Mindset"/>
 </p>
 
-<!-- 🔻 MINIMAL DIVIDER -->
+<!-- 🔻 DIVIDER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFB3,100:FF6F61&height=2"/>
 </p>
 
+---
 
-## 🧠 <span style="color:#00BFFF;">About Me</span>
+## About Me
 
-- 🎓 B.Tech @ **Pimpri Chinchwad College of Engineering**
-- 🤖 Exploring **AI, Machine Learning & Data Analytics**
-- 💡 I enjoy turning ideas into **real-world applications**
-- ☁️ Learning **AWS & scalable systems**
-- ⚡ Focused on building projects that actually **solve problems**
+- 🎓 B.Tech @ Pimpri Chinchwad College of Engineering  
+- 🤖 Exploring AI, Machine Learning & Data Analytics  
+- 💡 Building real-world applications  
+- ☁️ Learning AWS & scalable systems  
+- ⚡ Focused on solving practical problems  
 
 ---
 
-## ⚙️ <span style="color:#FF6F61;">Tech Stack</span>
+## Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=cpp,c,python,js,html,css,nodejs,mongodb,mysql,postgres,aws&theme=dark" />
-
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,js,html,css,nodejs,mongodb,mysql,postgres,aws&theme=dark" />
 </p>
 
 ---
 
-## 🚀 <span style="color:#00FFB3;">Featured Projects</span>
+## Featured Projects
 
-### 🧩 RAG Placement Assistant
-> AI-powered assistant for interview prep using **LangChain + FAISS**
+### RAG Placement Assistant
+> AI-powered assistant for interview preparation  
 
-✨ Context-aware answers  
-✨ PDF-based knowledge system  
-✨ Streamlit interactive UI  
-
----
-
-### 🏥 Smart Healthcare Prediction
-> ML system for predicting **disease risk & expenses**
-
-⚡ Random Forest + Regression  
-⚡ Data-driven decision making  
+- Context-aware responses  
+- PDF-based knowledge system  
+- Streamlit interface  
 
 ---
 
-### 🌾 AgroMart (Govt Certified 🇮🇳)
-> Agri-commerce platform for farmers
+### Smart Healthcare Prediction
+> Machine learning system for disease and cost prediction  
 
-🔥 Govt. of India Copyright  
-🔥 Product + Order Management System  
-🔥 Clean UI & scalable backend  
-
----
-
-## 🏆 <span style="color:#FFD700;">Achievements</span>
-
-✨ **99.08 Percentile** — MHT-CET  
-🥇 **1st Rank** — AI Canvas Competition 2025  
-📜 Govt. Copyright — AgroMart  
+- Random Forest & Regression  
+- Data-driven insights  
 
 ---
 
-## 💼 <span style="color:#FF6F61;">Experience</span>
+### AgroMart
+> Agri-commerce platform for farmers  
 
-- 🤖 AI/ML Intern @ Edunet Foundation (IBM SkillsBuild)
-- 📊 Data Analytics Simulation @ Deloitte
-- 💰 Treasurer @ PCCOE R&D Club  
+- Product & order management  
+- Scalable backend system  
 
 ---
 
-## 📊 <span style="color:#00BFFF;">GitHub Stats</span>
+## Achievements
+
+- 🏅 99.08 Percentile — MHT-CET  
+- 🥇 1st Rank — AI Canvas Competition 2025  
+- 📜 Government of India Copyright  
+
+---
+
+## Experience
+
+- 🤖 AI/ML Intern — Edunet Foundation  
+- 📊 Data Analytics Simulation — Deloitte  
+- 💼 Treasurer — PCCOE R&D Club  
+
+---
+
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PiyushAhirao1541&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -93,23 +91,23 @@
 
 ---
 
-## 🌐 <span style="color:#00FFB3;">Let's Connect</span>
+## Connect
 
 <p align="center">
   <a href="mailto:ahiraopiyush@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Drop%20a%20message-red?style=for-the-badge&logo=gmail">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
   </a>
   <a href="https://linkedin.com/in/piyush-ahirao">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin">
   </a>
   <a href="https://github.com/PiyushAhirao1541">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
   </a>
 </p>
 
 ---
 
-## ⚡ <span style="color:#FF6F61;">Personal Touch</span>
+## Personal Note
 
 ```diff
 + I believe in building, not just learning.
