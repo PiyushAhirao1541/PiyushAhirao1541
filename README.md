@@ -1,10 +1,27 @@
+<!-- 🔥 BACKGROUND WAVE (DEPTH) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=Piyush%20Ahirao&fontSize=45&fontColor=00FFB3&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&animation=twinkling"/>
 </p>
 
+<!-- ⚡ MAIN NAME (CENTER FOCUS) -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=1200&pause=2000&color=00FFB3&center=true&vCenter=true&width=700&lines=Piyush+Ahirao"/>
+</h1>
+
+<!-- 💥 FLOATING TAGLINE (STACKED EFFECT) -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=2000&pause=1200&color=00FFB3&center=true&vCenter=true&width=600&lines=AI+%7C+ML+Explorer;Building+Future+Tech;Innovating+Everyday"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=1800&pause=1000&color=FF6F61&center=true&vCenter=true&width=650&lines=⚡+Turning+Ideas+Into+Reality;🚀+Code.+Build.+Innovate.;🧠+AI-driven+Mindset"/>
 </p>
+
+<!-- 🔥 GLOW LINE -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFB3,100:FF6F61&height=5"/>
+</p>
+
+<!-- 🧠 SECOND LAYER (DEPTH TEXT) -->
+<h3 align="center" style="color:#aaa;">
+  Designing systems that think ⚡ | Building real-world AI
+</h3>
 
 ## 🧠 <span style="color:#00BFFF;">About Me</span>
 
