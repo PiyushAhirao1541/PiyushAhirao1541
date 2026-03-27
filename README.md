@@ -1,16 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:1a1a1a&height=140&section=header&text=Piyush%20Ahirao&fontSize=40&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=Piyush%20Ahirao&fontSize=45&fontColor=00FFB3&animation=twinkling"/>
 </p>
-
-<h3 align="center" style="color:#aaa;">
-  Turning Ideas Into Reality ✨
-</h3>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFB3,100:00BFFF&height=2"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=2000&pause=1200&color=00FFB3&center=true&vCenter=true&width=600&lines=AI+%7C+ML+Explorer;Building+Future+Tech;Innovating+Everyday"/>
 </p>
-
-
 
 ## 🧠 <span style="color:#00BFFF;">About Me</span>
 
